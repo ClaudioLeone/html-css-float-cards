@@ -31,9 +31,10 @@ h1{
 }
 
 .col{
-    width: calc(100% / 3 - 64px);
+    width: calc(100% / 3);
     float: left;
     background-color:rgb(0, 99, 80);
+    margin: auto;
 }
 
 .clearfix::after{
